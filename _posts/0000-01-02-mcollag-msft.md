@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Lose but don't lose the lesson"
 Use the left arrow to go back!
